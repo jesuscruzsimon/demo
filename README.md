@@ -1,2 +1,2 @@
-# demo
+# repositorio de prueba
 esto es un repositorio de prueba
